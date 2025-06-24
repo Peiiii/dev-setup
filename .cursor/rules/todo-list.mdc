@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# TODO List Execution Rule
+
+- All development, implementation, and progress tracking for this project must strictly follow the tasks and phases defined in [todo-list.md](mdc:prompts/todo-list.md).
+- No new features, refactors, or documentation changes should be made unless they are explicitly listed in the TODO list, or the TODO list is updated accordingly.
+- All progress, completed tasks, and blockers must be recorded and updated in the TODO list document.
+- This rule ensures transparency, traceability, and disciplined project management.
+
+*Reference: [todo-list.md](mdc:prompts/todo-list.md)*
