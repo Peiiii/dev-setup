@@ -1,5 +1,5 @@
 #!/bin/bash
 set -e
 
-echo "[yarn/pnpm] 安装 yarn 和 pnpm..."
+echo "[yarn/pnpm] Installing yarn and pnpm..."
 brew install yarn pnpm 

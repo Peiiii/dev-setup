@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Project Language Rule
+
+The primary language for all documentation, code comments, commit messages, and communication in this project is **English**.
+
+- All new files, pull requests, and issues should use English as the default language.
+- This rule applies to README, code comments, documentation, and all project-related discussions.
+
+This rule helps ensure consistency and accessibility for global contributors.
