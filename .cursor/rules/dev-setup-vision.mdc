@@ -1,0 +1,15 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# 项目愿景与目标
+
+本项目旨在打造一个可扩展的自动化开发环境配置工具，帮助开发者（首先是前端开发者）在新设备上高效完成环境setup。其核心目标包括：
+
+- 支持一键全自动setup，也支持自定义选择部分setup步骤。
+- 以集合（Collection）为单位组织setup脚本，前端setup为第一个集合，未来可扩展到后端、AI、设计师等多种开发场景。
+- 提供CLI入口，后续支持UI界面优化体验。
+- 项目开源，帮助更多开发者高效上手新环境。
+
+本规则参考了[initial-question.md](mdc:prompts/initial-question.md)文件内容。

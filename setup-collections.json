@@ -1,0 +1,16 @@
+{
+  "collections": [
+    {
+      "name": "frontend",
+      "title": "前端开发环境",
+      "description": "适用于前端开发者的常用环境和工具自动化安装。",
+      "steps": [
+        { "id": "brew", "title": "安装 Homebrew", "script": "brew_install" },
+        { "id": "nvm", "title": "安装 nvm 和 Node.js", "script": "nvm_install" },
+        { "id": "vscode", "title": "安装 VS Code", "script": "vscode_install" },
+        { "id": "ohmyzsh", "title": "安装 Oh My Zsh", "script": "ohmyzsh_install" },
+        { "id": "tools", "title": "安装常用工具", "script": "tools_install" }
+      ]
+    }
+  ]
+} 
